@@ -1,8 +1,3 @@
-<!-- header -->
-
-<h1 align="center">WhiteCat</h1>
-
-
 <!-- banner -->
 
 <br>
