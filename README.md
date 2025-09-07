@@ -13,11 +13,14 @@
 <details open>
     <summary>:memo: About Me:</summary>
     <p>
-      :wave: Hi there! I'm WhiteCat, a fullstack developer building web applications<br>
-      I mainly develop backend in Express.js, and frontend in Vue.js and Astro.js<br>
-      I also specialise in testing mobile and web applications
+      :wave: Hi there! I'm WhiteCat, I'm a fullstack developer building web applications<br>
+      I mainly use Express and FastAPI for backend development<br>
+      And for frontend development, I use Astro and Vue
       <br><br>
-      You can see my tech stack below
+      Currently, I work as a Fullstack QA Engineer and test web, mobile applications, backends and AI<br>
+      I'm also developing in the direction of Security testing
+      <br><br>
+      Below you can see my stack
     </p>
 </details>
 <br>
