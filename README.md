@@ -17,7 +17,7 @@
       I mainly use Express and FastAPI for backend development<br>
       And for frontend development, I use Astro and Vue
       <br><br>
-      Currently, I work as a Fullstack QA Engineer and test web, mobile applications, backends and AI<br>
+      Currently, I work as a Fullstack QA Engineer and test web, mobile applications, backends, AI and BigData<br>
       I'm also developing in the direction of Security testing
       <br><br>
       Below you can see my stack
